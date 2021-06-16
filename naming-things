@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Arjun Bahuguna</title>
+</head>
+<body>
+	<h1>5 tips on naming your dev tool</h1>
+	<h2>1. maximum 3 syllables, lesser the better
+  <h2>2. Use food words (especially dryfruits, spices, dessert, and coffee drinks)
+         mint pista mocha latte basil chilli eclair honey vanilla pepper gelato wasabi chestnut espresso cinnamon spearmint
+  <h2>3. Use chemistry words
+         ice acid atom neon oxide proton phospor kelvin crystal electron kinetic isotope
+  <h3>4. Use color & light words
+         red ruby rust lime blue azure amber olive chrome lumen chromatic indigo iridescent
+  <h4>5. Use English words of Japanese origin (high-vowel content makes them easier to remember)
+         zen sumo judo dojo ninja kendo emoji bento sensei samurai kaizen
+  <h3>6. Combine words (with atleast one word related to your project)
+         <a href="https://github.com/securelayer7/PinNinja">pin-ninja</a> (identify all UART pins with a single script)
+         <a href="https://nimblebox.ai/">nimblebox</a> (out-of-the-box cloud environments)
+         <a href="https://github.com/vologue/wafer">Wafer</a> (migration tool for AWS WAF)
+         
+Hope this helps! Thanks to itsron717 and nerdypepper for review.
+</body>
+</html>
